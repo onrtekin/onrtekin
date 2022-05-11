@@ -1,7 +1,7 @@
 <img src="https://github.com/onrtekin/onrtekin/blob/main/8.jpg?raw=true">
 
 <h1 align="center">Hi 👋, I'm Oner TEKIN</h1>
-<h3 align="center">Software Automation Engineer / Tester</h3>
+<h3 align="center">Full Stack Automation Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onrtekin&label=Profile%20views&color=0e75b6&style=flat" alt="onrtekin" /> </p>
 
